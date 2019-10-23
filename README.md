@@ -1,0 +1,2 @@
+# seafarer
+GitHub Pages
